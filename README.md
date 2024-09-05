@@ -1,66 +1,70 @@
-# The Tummy Section
+# Getting Started with Create React App
 
-The Tummy Section is a state-of-the-art Online Food Delivery Application that bridges the gap between restaurants and food enthusiasts. This platform allows restaurant owners to effortlessly register their establishments while enabling customers to savor their favorite meals with unparalleled ease.
-## Project Demo
-https://drive.google.com/file/d/1IviEou_FbZN9daD1Z35VDTyO6uJ2NEyt/view?usp=sharing
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Key Features
+## Available Scripts
 
-### Multi-vendor Support
-Unlock a vast array of dining choices as multiple restaurants register and offer their delicious cuisines on the The Tummy Section platform.
+In the project directory, you can run:
 
-### Tailored Admin Panels
-Empower restaurant owners with specialized admin panels and a super admin panel for platform owners, ensuring smooth operations for all parties involved.
+### `npm start`
 
-### Role-based Access
-Seamlessly manage user roles and access levels, guaranteeing a secure and controlled experience.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### User-friendly Functions
-Convenient features including 'Add to Favorite,' 'Carousel Display,' 'Add to Cart,' and 'Remove from Cart,' enhancing the overall user experience.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Robust Security Measures
-Implementing secure authentication, password reset via email, and email notifications for order updates.
+### `npm test`
 
-### Intuitive UI Design
-Enjoy a seamless and visually appealing user experience with an intuitive user interface design.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Ordering Facility for Customers
-Customers can easily browse through available restaurants, select their desired dishes, and place orders hassle-free.
+### `npm run build`
 
-### Cart Creation and Deletion
-Effortlessly create and manage carts, allowing customers to add or remove items before finalizing their orders.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Customization of Food with Categories and Ingredients
-Personalize your dining experience by customizing food orders based on categories and ingredients, ensuring every meal meets your preferences.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Favorite Restaurant and Category
-Save your favorite restaurants and categories for quick access to your preferred dining options.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Events Hosted by Restaurants
-Stay updated on upcoming events hosted by restaurants, adding excitement and variety to your dining choices.
+### `npm run eject`
 
-### Menu and Food Type Creation
-Easily create and manage menus, categorizing dishes based on food types for efficient navigation and selection.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Technologies Utilized
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Backend
-- Spring Boot: Powerful backend infrastructure.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Frontend
-- React: Engaging user interface library.
-- MUI: Pre-built React components for a consistent UI.
-- Tailwind CSS: Utility-first framework for rapid and responsive design.
-- Redux: State management library for predictable application state.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Database
-- MySQL: Reliable database for data management and retrieval.
+## Learn More
 
-### Security
-- JWT & Spring Security: Top-tier security measures for user data and interactions.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### Additional Technologies
-- React Router DOM: Smooth navigation and user experience.
-- Formik: Form handling library for simplified form validation and management.
-- Axios: Popular promise-based HTTP client for API requests.
-- Cloudinary: Cloud storage solution for files.
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
